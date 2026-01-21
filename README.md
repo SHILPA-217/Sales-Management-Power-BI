@@ -3,10 +3,10 @@ This Power BI dashboard analyzes banking sales performance, tracking key metrics
 
 Data sets used :
 =================================
-Sales people
-customers
-orders
-Sales_target
+Sales people ,
+customers ,
+orders ,
+Sales_target ,
 Bank customers (csv-Datasets)
 =================================
 
